@@ -1,8 +1,8 @@
 
 
 import { Component } from 'react';
-import { Button } from '../componets/button';
-import  Display  from '../componets/display';
+import { Button } from '../components/button';
+import  Display  from '../components/display';
 
 
 class Calculator extends Component {
